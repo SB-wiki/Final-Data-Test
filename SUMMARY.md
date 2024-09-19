@@ -1200,3 +1200,4 @@
 * [Release Management](release-management/README.md)
   * [Sunbird ED Release Nomenclature](release-management/sunbird-ed-release-nomenclature.md)
   * [Page](release-management/page.md)
+  * [DevOps](DevOps/FullExport/API-Manager-Kong-BEST-Practices-Documentation.md)
