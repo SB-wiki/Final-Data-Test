@@ -1,6 +1,0 @@
----
-icon: folder-open
----
-
-# DevOps
-
